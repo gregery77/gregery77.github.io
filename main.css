@@ -32,3 +32,6 @@ h5 {
 	font-family: Georgia, serif;
 }
 
+div {
+	white-space: nowrap;
+}
