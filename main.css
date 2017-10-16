@@ -32,16 +32,3 @@ h5 {
 	font-family: Georgia, serif;
 }
 
-.wrap{
-	text-align:center
-}
-.left{
-	float: left;
-}
-.right{
-	float: right;
-}
-.center{
-	float: center;
-	margin:0 auto;
-}
