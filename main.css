@@ -43,4 +43,6 @@ h5 {
 }
 .center{
 	float: center;
+	margin:0 auto;
+	display: inline-block
 }
